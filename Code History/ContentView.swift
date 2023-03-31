@@ -28,7 +28,7 @@ struct ContentView: View {
                     Button(action: {
                         print("Selected option 1")
                     }, label: {
-                        Text("Pikachu")
+                        Text("Muk")
                             .font(.body)
                             .bold()
                             .multilineTextAlignment(.center)
@@ -38,7 +38,7 @@ struct ContentView: View {
                     Button(action: {
                         print("Selected option 2")
                     }, label: {
-                        Text("Charmander")
+                        Text("Charizard")
                             .font(.body)
                             .bold()
                             .multilineTextAlignment(.center)
